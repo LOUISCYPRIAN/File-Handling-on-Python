@@ -39,7 +39,7 @@ Before this, I thought working with files meant editing them manually.
 
 Now I understand that Python can automate file operations, which saves time and reduces errors especially when working with large data.
 
-Tools Used
+- Tools Used
 
 Python
 Google Colab
