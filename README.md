@@ -41,8 +41,8 @@ Now I understand that Python can automate file operations, which saves time and 
 
 Tools Used
 
-*Python
-*Google Colab
+Python
+Google Colab
 
 
 Author
