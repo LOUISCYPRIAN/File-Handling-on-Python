@@ -32,7 +32,7 @@ Write Multiple Lines   with open("file.txt", "w") as file:
         file.write("I love myself\n")
 
 ```
-Why This Project Matters
+- Why This Project Matters
 
 
 Before this, I thought working with files meant editing them manually.
@@ -41,8 +41,8 @@ Now I understand that Python can automate file operations, which saves time and 
 
 Tools Used
 
-Python
-Google Colab
+*Python
+*Google Colab
 
 
 Author
