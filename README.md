@@ -31,6 +31,7 @@ Write Multiple Lines   with open("file.txt", "w") as file:
     for i in range(100):
         file.write("I love myself\n")
 
+```
 Why This Project Matters
 
 
@@ -39,6 +40,7 @@ Before this, I thought working with files meant editing them manually.
 Now I understand that Python can automate file operations, which saves time and reduces errors especially when working with large data.
 
 Tools Used
+
 Python
 Google Colab
 
